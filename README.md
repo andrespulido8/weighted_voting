@@ -2,6 +2,8 @@
 
 A simple web app for making group decisions. Each person scores options from 1–10 and the highest total wins.
 
+Use it here: [https://weighted-voting.streamlit.app/](https://weighted-voting.streamlit.app/)
+
 ## Usage
 
 1. Enter a session title (optional), the options to vote on, and the voters
